@@ -1,0 +1,84 @@
+/* index */
+body {
+    background-image: url("../pic/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#logo {
+    margin: 1%;
+}
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar {
+    text-align: center;
+    font-size: 150%;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+    margin: 2% 10%;
+}
+
+/* home page */
+
+#home1 {
+    text-align: center;
+    width: 100%;
+}
+
+#home_content {
+    margin: 2%;
+    padding: 3%;
+    font-size: 130%;
+}
+
+/* Contact page */
+
+#contact_header {
+    margin-left: 2%;
+    margin-top: -5px;
+    color: white;
+}
+
+#map {
+    border-radius: 10px;
+    margin: 2% 0;
+}
+
+#email, #skype {
+    margin: 5px;
+}
+
+/* Menu page */
+
+#menuHeader {
+    color: white;
+    margin: 2%;
+}
+
+.pizza_pic {
+    width: 80%;
+    height: auto;
+}
+.pizza_name {
+    font-size: large;
+    color: white;
+    margin: 2%;
+}
+
+.pizza_price {
+    color: white;
+    margin: 2%;
+}
+
+/* about page */
+
+#aboutPage {
+    margin: auto 3%;
+    color: white;
+}
